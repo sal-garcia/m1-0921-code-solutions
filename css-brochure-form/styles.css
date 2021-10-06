@@ -5,6 +5,8 @@ input {
   border-style: solid;
   border-color: #a1a1a1;
   border-width: 1px;
+  margin-bottom: 12px;
+  margin-left: 14px;
 }
 
 #numbers {
@@ -13,7 +15,7 @@ input {
 
 h2 {
   color: #ef7975;
-  margin-left: 10%;
+  margin-left: 12%;
   font-family: 'Brandon Grotesque', sans-serif;
 }
 
@@ -28,7 +30,7 @@ h2 {
 label {
   font-family: 'Brandon Grotesque', sans-serif;
   font-weight: 500;
-  padding-left: 10px;
+  padding-left: 25px;
 }
 
 button {
@@ -40,5 +42,5 @@ button {
   width: 6%;
   height: 40px;
   font-size: large;
-  margin-left: 24%;
+  margin-left: 25%;
 }
