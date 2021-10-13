@@ -48,3 +48,12 @@ h1 {
   width: 90%;
   line-height: 25px;
 }
+
+.button-red {
+  border: solid #d14c45;
+  background-color: white;
+  color: #d14c45;
+  border-width: 2px;
+  width: 170px;
+  height: 40px;
+}
