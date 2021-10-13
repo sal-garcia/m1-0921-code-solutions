@@ -1,0 +1,50 @@
+.container {
+  background-color: #1996da;
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+
+.row {
+  display: flex;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.white-circle {
+  background-color: white;
+  border-radius: 50%;
+  width: 130px;
+  height: 130px;
+}
+
+img {
+  width: 100%;
+  padding: 25px 25px 25px 25px;
+}
+
+.img-spacing {
+  align-items: center;
+  width: 18%;
+}
+
+.center {
+  justify-content: center;
+}
+
+.text-spacing {
+  width: 18%;
+  text-align: center;
+}
+
+.paragraph-box {
+  width: 72%;
+  text-align: center;
+  line-height: 23px;
+}
+
+h2 {
+  margin-bottom: 0;
+}
