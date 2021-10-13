@@ -1,0 +1,59 @@
+.container {
+  font-family: 'Karla', sans-serif;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.flex-basis-twenty-five {
+  flex-basis: 25%;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.title-container {
+  text-align: center;
+  width: 55%;
+}
+
+h1 {
+  font-size: 59px;
+}
+
+.text-container {
+  width: 90%;
+}
+
+.h2-box {
+  line-height: 1px;
+}
+
+.margin-top {
+  margin-top: 4%;
+}
+
+.paragraph-container {
+  width: 90%;
+  line-height: 25px;
+}
+
+.button-red {
+  border: solid #d14c45;
+  background-color: white;
+  color: #d14c45;
+  border-width: 2px;
+  width: 170px;
+  height: 40px;
+}
