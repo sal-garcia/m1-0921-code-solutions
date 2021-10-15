@@ -1,0 +1,253 @@
+.container {
+  width: 1150px;
+  margin: 0 auto;
+  font-family: 'Avenir', sans-serif;
+}
+
+/* row 1 */
+.row-one {
+  margin-top: 20px;
+  border-bottom: solid rgb(218, 216, 216) 1px;
+}
+
+.blue-canvas-image {
+  width: 100%;
+}
+
+.blue-canvas-container {
+  width: 30%;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.flex-basis-45 {
+  flex-basis: 45%;
+}
+
+.flex-basis-30 {
+  flex-basis: 33%;
+}
+
+.button-container-one {
+  margin-top: 6px;
+}
+
+.button-container-one > button {
+  background-color: #294464;
+  border-style: none;
+  color: white;
+  height: 40px;
+  width: 90px;
+  border-radius: 5px;
+}
+
+.gray-links {
+  color: #a7a7a7;
+}
+
+/* row 1 */
+
+/* row 2 */
+.background-image {
+  position: relative;
+  bottom: 70px;
+  width: 100%;
+  top: 70px;
+  filter: brightness(0.8);
+}
+
+.container-for-background-image {
+  width: 85%;
+}
+
+.row-two {
+  height: 700px;
+}
+
+.text-on-image {
+  position: absolute;
+  width: 27%;
+  line-height: 25px;
+  bottom: 39%;
+  right: 45%;
+  color: white;
+}
+
+.text-on-image > h1 {
+  font-family: 'Tiempos Headline', sans-serif;
+}
+
+.text-on-image > button {
+  background-color: #294464;
+  border-style: none;
+  color: white;
+  height: 40px;
+  width: 130px;
+  font-size: medium;
+  border-radius: 5px;
+}
+
+/* row 2 */
+
+/* row 3 */
+.row-third {
+  height: 450px;
+  background-color: #fafafa;
+  color: #6e6e6e;
+}
+
+.top-container {
+  width: 40%;
+  text-align: center;
+  line-height: 25px;
+}
+
+.top-container > h1 {
+  font-family: 'Tiempos Headline', sans-serif;
+}
+
+.margin-top {
+  margin-top: 30px;
+}
+
+.third-row-container {
+  width: 100%;
+}
+
+/* row 3 */
+
+/* row 4 */
+.row-four {
+  background-color: white;
+  font-family: 'Avenir', sans-serif;
+  color: #6e6e6e;
+  height: 160px;
+}
+
+.container-fourth > h1 {
+  font-family: 'Tiempos Headline', sans-serif;
+}
+
+.flex-basis-12 {
+  flex-basis: 12%;
+}
+
+.flex-basis-68 {
+  flex-basis: 68%;
+}
+
+.container-fourth > button {
+  background-color: #294464;
+  border-style: none;
+  color: white;
+  height: 40px;
+  width: 130px;
+  font-size: medium;
+  border-radius: 5px;
+}
+
+/* row 4 */
+
+/* row 5 */
+.row-five {
+  background-color: #525351;
+  height: 400px;
+  color: white;
+}
+
+.white-canvas-image {
+  width: 100%;
+}
+
+.row-five-image-container-left {
+  width: 70%;
+  margin-bottom: 30px;
+}
+
+.row-five-left-container {
+  width: 58%;
+  line-height: 25px;
+}
+
+.flex-basis-48 {
+  flex-basis: 50%;
+}
+
+/* row 5 */
+
+/* row 6 */
+.row-six {
+  background-color: #fafafa;
+  height: 100px;
+  font-family: 'Avenir', sans-serif;
+}
+
+.flex-basis-75 {
+  flex-basis: 75%;
+}
+
+.row-six-links {
+  color: #8d8d8d;
+}
+
+.flex-basis-40 {
+  flex-basis: 40%;
+}
+
+.flex-basis-79 {
+  flex-basis: 79%;
+}
+
+.flex-basis-80 {
+  flex-basis: 80%;
+}
+
+.flex-basis-6th {
+  flex-basis: 40%;
+}
+
+/* row 6 */
+
+/* classes that will be used multiple times */
+.justify-content-space-between {
+  justify-content: space-between;
+}
+
+.row {
+  display: flex;
+}
+
+.justify-content-flex-end {
+  justify-content: flex-end;
+}
+
+.justify-content-flex-start {
+  justify-content: flex-start;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.align-items-flex-start {
+  align-items: flex-start;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.justify-content-space-around {
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+}
