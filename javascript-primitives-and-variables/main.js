@@ -1,0 +1,15 @@
+var fullName = 'sal garcia';
+var isCool = true;
+var totalPets = 2;
+var unknown = null;
+var never;
+console.log('fullname', fullName);
+console.log('isCool', isCool);
+console.log('total Pets', totalPets);
+console.log(typeof (fullName));
+console.log(typeof (isCool));
+console.log(typeof (totalPets));
+console.log('null', unknown);
+console.log(typeof (unknown));
+console.log('never', never);
+console.log(typeof never);
