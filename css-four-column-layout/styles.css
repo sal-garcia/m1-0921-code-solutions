@@ -1,0 +1,33 @@
+
+.container {
+  background-color: #f7f8fa;
+  width: 1200px;
+  margin: 0 auto;
+  font-family: 'Barlow', sans-serif;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+img {
+  width: 250px;
+}
+
+.symbols {
+  width: 70px;
+}
+
+.image-container {
+  align-items: center;
+}
