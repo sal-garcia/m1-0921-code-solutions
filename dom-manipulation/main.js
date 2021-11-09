@@ -6,7 +6,7 @@ function incrementing(event) {
   numberOfClicks++;
   $clickCount.textContent = numberOfClicks;
   if (numberOfClicks >= 4 && numberOfClicks < 7) {
-    $hotButton.classList.add(' cool');
+    $hotButton.classList.add('cool');
   } else if (numberOfClicks >= 7 && numberOfClicks < 10) {
     $hotButton.classList.remove('cool');
     $hotButton.classList.add('tepid');
