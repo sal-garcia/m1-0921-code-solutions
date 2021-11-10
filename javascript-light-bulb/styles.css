@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+}
+
+.center {
+  justify-content: center;
+  margin-top: 20%;
+}
+
+.circle {
+  background-color: #eadb7e;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.black {
+  background-color: #252525;
+}
+
+.black-background {
+  background-color: #111;
+}
