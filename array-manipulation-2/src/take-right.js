@@ -17,4 +17,9 @@ function takeRight(array, count) {
 // array minus the count
 // the condition checks if that is less or equal to the total
 // length of the array minus 1
-// and then you increments
+// and then you push whatever elmenet is at array[i] if the condition
+// is true
+// you keep incrementing by one and doing the same
+// finally you check if theres a parameter of the array with
+// the length of zero if true you pass an empty array
+// then you just return the storage variable
