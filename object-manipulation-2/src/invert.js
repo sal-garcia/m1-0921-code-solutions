@@ -9,6 +9,6 @@ function invert(source) {
 }
 // define the function
 // define an object storage variable
-// define a for in loop that goes thru all of the properties
-// and assign the property
-// to the storage object at the source object at the property
+// define a for in loop that goes thru all of the keys in source
+// assign the key to the value and add that to the storage object
+// return the storage variable
