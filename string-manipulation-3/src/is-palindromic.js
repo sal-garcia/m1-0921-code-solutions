@@ -1,5 +1,4 @@
 /* exported isPalindromic */
-
 /* function isPalindromic(string) {
   var bool = false;
   var backwards = [];
