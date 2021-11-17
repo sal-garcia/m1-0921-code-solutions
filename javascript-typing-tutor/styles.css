@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+  margin-top: 300px;
+  font-family: sans-serif;
+}
+
+span {
+  font-size: 35px;
+}
+
+.green {
+  color: #18cd1b;
+}
+
+.red {
+  color: #f80606;
+}
+
+.black {
+  border-bottom: 4px solid black;
+}
+
+.bottomRed {
+  border-bottom: 4px solid red;
+}
+
+.space {
+  margin-right: 20px;
+}
