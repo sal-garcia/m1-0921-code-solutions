@@ -18,9 +18,9 @@ console.log('books', books);
 console.log('json stringify ', JSON.stringify(books)); // is serialized into a json string
 console.log('type of json stringify ', typeof JSON.stringify(books));
 
-var student = JSON.stringify({ name: 'julius', NumberId: 2345 });// starst as a JSON string
-console.log('type of studentObj ', typeof student);
-console.log('studentObj ', student);
+var student = '{ "name": "julius", "NumberId": 2345 }'; // starst in the format of a JSON string
+console.log('type of studentObj  ', typeof student);
+console.log('studentObj  ', student);
 
 console.log('json parse ', JSON.parse(student)); // is deserialized into a js object
 console.log('typeof ', typeof JSON.parse(student));
